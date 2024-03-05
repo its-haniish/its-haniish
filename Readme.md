@@ -6,7 +6,7 @@ I am a positive, enthusiastic and competent Software Developer who, over the yea
 Socials 🌐
 ----------
 
- [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dotpxd)[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ](https://instagram.com/programmerxd)[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/programmerxd)  
+ [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Git_Pull_Toxiic)[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ](https://instagram.com/its.hanish)[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/git-pull-hanish)  
 
 Tech Stacks ⚡
 -------------
@@ -15,20 +15,20 @@ Tech Stacks ⚡
 
 # Github Stats ◻️
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realpxd&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realpxd&theme=tokyonight)](https://github.com/realpxd)
-[![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realpxd&theme=tokyonight)](https://github.com/realpxd)
-[![Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=realpxd&theme=tokyonight&hide_border=true)](https://github.com/realpxd) 
-<!--[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=realpxd&layout=compact&theme=radical)](https://github.com/realpxd) -->  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxiic-me&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxiic-me&theme=tokyonight)](https://github.com/toxiic-me)
+[![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxiic-me&theme=tokyonight)](https://github.com/toxiic-me)
+[![Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=toxiic-me&theme=tokyonight&hide_border=true)](https://github.com/toxiic-me) 
+<!--[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toxiic-me&layout=compact&theme=radical)](https://github.com/toxiic-me) -->  
 # Top Contributed Repo 🔝
 
-[![Languages Stats](https://github-contributor-stats.vercel.app/api?username=realpxd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/realpxd)
+[![Languages Stats](https://github-contributor-stats.vercel.app/api?username=toxiic-me&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/toxiic-me)
 
 
 💰 You can help me by Donating
 ------------------------------
 
- [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ProgrammerXD)[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ProgrammerXD)  
-\--- [![](https://visitcount.itsvg.in/api?id=realpxd&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in/api?id=realpxd&label=Profile%20Views&color=0&icon=8&pretty=true)
+ [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toxiic-me)[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/toxiic-me)  
+\--- [![](https://visitcount.itsvg.in/api?id=toxiic-me&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in/api?id=toxiic-me&label=Profile%20Views&color=0&icon=8&pretty=true)
 
 <!--
 <p> Thanks for coming :) </p>
