@@ -15,20 +15,20 @@ Tech Stacks ⚡
 
 # Github Stats ◻️
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxiic-me&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toxiic-me&theme=tokyonight)](https://github.com/toxiic-me)
-[![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toxiic-me&theme=tokyonight)](https://github.com/toxiic-me)
-[![Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=toxiic-me&theme=tokyonight&hide_border=true)](https://github.com/toxiic-me) 
-<!--[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toxiic-me&layout=compact&theme=radical)](https://github.com/toxiic-me) -->  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-haniish&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-haniish&theme=tokyonight)](https://github.com/its-haniish)
+[![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-haniish&theme=tokyonight)](https://github.com/its-haniish)
+[![Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=its-haniish&theme=tokyonight&hide_border=true)](https://github.com/its-haniish) 
+<!--[![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=its-haniish&layout=compact&theme=radical)](https://github.com/its-haniish) -->  
 # Top Contributed Repo 🔝
 
-[![Languages Stats](https://github-contributor-stats.vercel.app/api?username=toxiic-me&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/toxiic-me)
+[![Languages Stats](https://github-contributor-stats.vercel.app/api?username=its-haniish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/its-haniish)
 
 
 💰 You can help me by Donating
 ------------------------------
 
- [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toxiic-me)[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/toxiic-me)  
-\--- [![](https://visitcount.itsvg.in/api?id=toxiic-me&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in/api?id=toxiic-me&label=Profile%20Views&color=0&icon=8&pretty=true)
+ [![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/its-haniish)[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/its-haniish)  
+\--- [![](https://visitcount.itsvg.in/api?id=its-haniish&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in/api?id=its-haniish&label=Profile%20Views&color=0&icon=8&pretty=true)
 
 <!--
 <p> Thanks for coming :) </p>
